@@ -1,0 +1,497 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pastoral letter from a minister to his parishioners, being an earnest exhortation to them to take care of their souls; and a preparative in order to render all his future methods of instruction more effectual to their edification.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91509</idno>
+            <idno type="STC">Wing P674</idno>
+            <idno type="STC">ESTC R181511</idno>
+            <idno type="EEBO-CITATION">45578400</idno>
+            <idno type="OCLC">ocm 45578400</idno>
+            <idno type="VID">172322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2625:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pastoral letter from a minister to his parishioners, being an earnest exhortation to them to take care of their souls; and a preparative in order to render all his future methods of instruction more effectual to their edification.</title>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Brocas in School-House-Lane, for J. Millner, bookseller in Essex-street,</publisher>
+                  <pubPlace>Dublin: :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in the Trinity College Library (Dublin, Ireland).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Ireland --  Pastoral letters and charges.</term>
+               <term>Spiritual life.</term>
+               <term>Christian life --  Anglican authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172322:1" rendition="simple:additions"/>
+            <p>A <hi>PASTORAL LETTER</hi> FROM A MINISTER TO HIS Parishioners, Being an Earneſt EXHORTATION To them to take <hi>Care of their SOULS;</hi> AND A Preparative in order to render all his Future Methods of Inſtruction more effectual to their Edification.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>John Brocas</hi> in <hi>School-Houſe-Lane,</hi> for <hi>J. Millner,</hi> Bookſeller in <hi>Eſſex-ſtreet,</hi> 1700.</p>
+            <p>Price ſtitcht <hi>1d..</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172322:2"/>
+            <pb n="1" facs="tcp:172322:2"/>
+            <head>The Earneſt Exhortation of a Miniſter to his Pariſhioners to take Care of their Souls.</head>
+            <opener>
+               <salute>Moſt Dearly Beloved Neighbours.</salute>
+            </opener>
+            <p>MY Hearts deſire and Prayer to God for you is, that you may be ſaved; and my moſt ſincere Endeavours ſhall ever be, by all Chriſtian Me<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ods I can think of, to promote your Salvation. And <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing I cannot hope, either <hi>by Doctrine,</hi> or <hi>by Reproof, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by Inſtruction in Righteouſneſs,</hi> to prevail upon thoſe, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> comply with any Methods I can deviſe for the good <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Souls, who are not throughly ſenſible of the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> of them; I think it requiſite, in order to make <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> future Labours more effectual with you, to lay <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fore you ſuch Conſiderations, as may make you ſenſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of the ineſtimable Value of your Immortal Souls. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I take it for granted, that you believe you have <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouls. My buſineſs is to awaken you to a ſerious Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n for their everlaſting Welfare; a Concern the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt neceſſary of all others, and yet, I fear, very lit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e laid to Heart; for otherwiſe, the generality of Men <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould not poſſibly live as they do: They would not <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ploy all their Care and Pains in providing a Main<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nance for theſe periſhing Bodies, and leave the moſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>luable part of themſelves, their Souls, altogether <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eglected. Were we to die as the brute Beaſts, and<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at when our dead Bodies are laid in the Grave, there <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere an end of us; if this determined all our Hopes <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Fears, and we returned to our native Duſt therein <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o remain for ever; then might we Eat, and Drink, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d take our fill of Pleaſure in this World, as too ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y do: But if the Soul, when it leaves the Body, does
+<pb n="2" facs="tcp:172322:3"/>
+immediately enter into a ſtate of Happineſs, or Miſe<g ref="char:EOLhyphen"/>ry; if there be a Reſurrection both of the Juſt and the Unjuſt, as moſt certainly there is; if a future Ac<g ref="char:EOLhyphen"/>count muſt be given of every thing done in the Bo<g ref="char:EOLhyphen"/>dy, Whether it be Good, or whether it be Evil; and if our Eternal State ſhall be appointed us, either in Bliſs or Torment, according as we have behaved our ſelve<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in this life, as undoubtedly if ſhall; methinks it be<g ref="char:EOLhyphen"/>hoves every one of us, to look well about us, to en<g ref="char:EOLhyphen"/>quire ſeriouſly what we have been doing all thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> while; whither the Path we are in leads us, and wha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will our future State be.</p>
+            <p>In order to perſwade you to apply your thought to theſe moſt important Conſiderations, I know no Method which (through God's Bleſſing) ſeemeth mor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> likely, than to lay before you the ineſtimable Valu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of your Souls; the infinite Concern you have in thei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Welfare; how liable they are to be loſt and undon<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for ever; what excellent Proviſion our moſt Graciou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God hath made for their Security; and how juſt i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will be in him to condemn them to the extremity o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miſery, if you wilfully neglect the Care of them.</p>
+            <p>
+               <hi>Firſt, therefore, I intreat you to conſider the grea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Worth and Value of the Soul.</hi> Remember, that it i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the immediate Off-ſpring of God; that it came fro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heaven, from the Father of Spirits; <hi>God breathed int<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Man the Breath of Life, and Man became a livin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Soul,</hi> Gen. 2. 7. <hi>God made Man in his own Image,</hi> (no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> according to the likeneſs of any of the reſt of the Crea<g ref="char:EOLhyphen"/>tures) <hi>a little lower than the Angels, and crowned hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with Glory and Immortality.</hi> This is our peculiar Pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vilege, beyond all the Beings of this lower World that we reſemble our Maker, who is the moſt excelle<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Being. This is the Prerogative of that Spiritual an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Immortal part of us, our Soul; and conſequently th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Soul of Man muſt needs be exceeding Precious an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Valuable.</p>
+            <p>
+               <pb n="3" facs="tcp:172322:3"/>Our Bodies are Houſes of Clay, whoſe Foundati<g ref="char:EOLhyphen"/>ons are in the Duſt; and though as the Pſalmiſt ſaith, <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey are curiouſly wrought and faſhioned,</hi> yet all the Workmanſhip beſtowed on them, is, that they may be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erviceable to our Souls, fit Tabernacles for that Im<g ref="char:EOLhyphen"/>mortal part to dwell in. The Worth whereof will <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urther appear from that wonderful Eſteem thoſe have <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f it, who may be ſuppoſed to be beſt acquainted with <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e true Value of Souls.</p>
+            <p>Thus God the Father takes great Delight in being <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lled, and eſteemed, <hi>a Lover of Souls;</hi> and accord<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gly hath laid out his Thoughts from everlaſting, for <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e bringing in of them to himſelf. The Councils and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontrivances of Heaven have been ſpent on them. The <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ther thought nothing too dear to ſecure and ſave <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em; and therefore when he foreſaw we would not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontinue in that ſtate of Innocence, and Happineſs, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herein we were at firſt created, he contrived to <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke us capable of another Happineſs, and that at no <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Expence than the B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood of his own Beloved Son. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd certainly God would not have thus concerned <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſelf about things of little value; no aſſuredly, our <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ls are exceeding Precious in his Eyes, who hath <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oard the greateſt Happineſs for them, and thought <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thing too much to ſecure it.</p>
+            <p>Again. When the Son of God undertook to reſcue <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em from the Slavery of Sin, and Dominion of the Devil, he thought it ſufficiently worth his while to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſcend from Heaven, and put on the Form of a Ser<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt, and make himſelf of no Reputation, to live a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſerable Life, and die a painful and an accurſed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath. And ſurely he had not ſo mean an Eſteem of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own heavenly Glory, (<hi>Joh.</hi> 1. 18.) as to part with <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>or Trifles: And then certainly neither can you think our Souls of little worth, when the Son of God <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ought them worth his dying for. He would not
+<pb n="4" facs="tcp:172322:4"/>
+have thought ſit to pay ſo vaſt a Ranſom, as his pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cious Life, for a thing of ſmall value; yea, Himſe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath aſſured us, beyond all contradiction, that th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gain of the whole World, is not ſufficient Reco<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pence for the Loſs of ones Soul.</p>
+            <p>Again. The Holy Ghoſt is ſtill carrying on that gre<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Work of God's Mercy in the Salvation of our Soul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> For their ſakes it is that he hath made ſo many Rev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lations of God's Will to the World, and confirm<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them by ſo many Miracles: Therefore he ſtill follo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us with his preventing and aſſiſting Graces; He i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſpires us with good Thoughts, and kindles pious D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſires in us; He warmeth our cold Affections, and e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>flameth our Hearts with Devotion; He checks and r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtrains us from Sin, and upbraids us when we <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it; He ſtill importuneth, woeth and intreateth, tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if poſſible, he may awaken us into a Senſe of o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> danger, and excite and quicken us to purſue the M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thods of our own Safety and Happineſs. What the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are not our Souls worth, about which the Bleſſed Sp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rit takes ſo much care to ſave and make them happy<g ref="char:punc">▪</g>
+            </p>
+            <p>The Good Angels are Miniſtring Spirits for the go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Souls; they pitch their Tents about them, and thi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it no Diſparagement for ſuch glorious Beings as they are to guard them, and converſe with them: The<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtill wait to receive the Souls of good Men, whe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they depart out of the Body: They rejoyce at t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Converſation of Souls; a certain Sign that they ha<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> an entire Value for them.</p>
+            <p>Yea, the Devils themſelves do know that, in God Eſteem, nothing is ſo valuable under the whole He<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ven, as the Souls of Men; and therefore, as the grea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>eſt Inſtance of Spight and Malice they can do to Go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they make it their utmoſt endeavour to ſeduce and d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtroy them: They envy the Happineſs Men are cap<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ble of, and accordingly labour in their Deſtructio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and triumph when they have accompliſhed it.</p>
+            <p>
+               <pb n="5" facs="tcp:172322:4"/>Thus you ſee the Soul is of the greateſt Value. How <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch then does it behove you to take Care of it? What <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adneſs it to ſuffer theBody to engroſs all yourCare <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Thoughts, your Labour and Time; and to per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it that precious and immortal part of you, your Soul, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be overlooked as a thing not worth any ſerious no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce or regard? Eſpecially if you will conſider, <hi>Secondly, That the Loſs of the Soul is the moſt intole<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able of all other Loſſes.</hi> For indeed the Soul may be <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt; not that it ſhall ceaſe to be, (it were well for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icked Men if it could) but it may be undone <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd miſerable, and in that ſenſe loſt to all Eternity.—Deprived it may be of that Heaven of Happineſs <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich God hath provided for it, of the Enjoyment of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im <hi>in whoſe Preſence is fulneſs of Joy, and at whoſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight-hand there are Pleaſures for evermore.</hi> Nor is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is all; the Soul is not only capable of being deprived <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f infinite Bliſs, but of being plunged too in the extre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity of Deſpair and Miſery; it is liable to be given o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er to the violence and fury of Devils, and Deviliſh <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirits; to be committed to the hateful Society of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe miſerable Beings, where Wrath and Envy, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Ill-nature, only are to be found; where no <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy, no Peace, no Love, ever enter.</p>
+            <p>The Miſery of which dreadful State, the Holy Spi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it hath repreſented by Expreſſions, denoting the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reateſt Horror and Torment; by <hi>a Lake of Fire and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rimſtone, everlaſting Flame, a never-dying Worm, un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uenchable Firc,</hi> &amp;c.</p>
+            <p>This is the diſmal State the Souls and Bodies of the wicked will be condemned unto for ever; wherein they muſt ſuffer Day and Night, without reſt or in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ermiſſion. O dreadful State! with this Addition to the Extremity of Torments, that they will never have an end! Some Comfort it might be to thoſe mi<g ref="char:EOLhyphen"/>ſerable
+<pb n="6" facs="tcp:172322:5"/>
+Souls, had they hopes of any Deliverance; but it muſt needs exceedingly imbitter every Torment to them, to think of that never-ending Duration of Tor<g ref="char:EOLhyphen"/>ment to come: that, after they have been in a conſum<g ref="char:EOLhyphen"/>ing condition for Millions of Millions of Ages in Hell, they have ſtill an eternal Hell behind, and are as far diſtant from the end of their Miſeries, as they were when they firſt begun. This muſt needs plunge the wretched Soul into extreme Deſperation.</p>
+            <p>This State we are liable to be betrayed unto, we are in great danger of it, and how we came to be ſo, is what I intreat you in the next Place to conſider, and to behave your ſelves accordingly.</p>
+            <p>
+               <hi>Thirdly, Conſider the great danger your Souls are in, by reaſon of Sin.</hi> 
+               <q>God created the firſt Man <hi>Adam</hi> without Sin, and indued his Soul with the full know<g ref="char:EOLhyphen"/>ledge of his Duty; and with ſuch a Strength, that he might, if he would, perform all that was requi<g ref="char:EOLhyphen"/>red of him. Having thus created the firſt Man, he made a Covenant or Agreement with him to this pur<g ref="char:EOLhyphen"/>poſe; that if he continued in obedience to God without committing Sin; then, firſt, that ſtrength of Soul, which he then had, ſhould ſtill be conti<g ref="char:EOLhyphen"/>nued to him; and ſecondly, that he ſhould never die, but continue in a State of Happineſs for ever. But on the other ſide, if he committed Sin and diſ<g ref="char:EOLhyphen"/>obeyed God, then both he and all his Children af<g ref="char:EOLhyphen"/>ter him ſhould loſe that Knowledge and that per<g ref="char:EOLhyphen"/>fect Strength, which enabled him to do all that God required of him: And ſecondly, ſhould be ſubject to Death, and not only ſo, but to Eternal Damnation in Hell.</q>
+            </p>
+            <q>This was the Agreement made with <hi>Adam,</hi> and all Mankind in him (which we uſually call the firſt Covenant) upon which God gave <hi>Adam</hi> a particular Commandment, which was no more but this, that
+<pb n="7" facs="tcp:172322:5"/>
+he ſhould not preſume to eat of one only Tree of that Garden wherein he had placed him; which God called, <hi>The Tree of knowledge of Good and Evil.</hi> But <hi>Adam,</hi> by the perſuaſion of the Devil, eats of that Tree, diſobeys God, and ſo brings that firſt Curſe upon himſelf and all his Poſterity: And ſo by that one Sin of his, he loſt both thoſe together; I ſay, the full knowledge of his Duty, and the power of performing it. And we being born after his Image, loſt them likewiſe; and ſo are become both ignorant in diſcerning what we ought to do, and weak and unable to the doing of it; having a backwardneſs to all good, and an aptneſs and readi<g ref="char:EOLhyphen"/>neſs to all Evil; like a ſick Stomach, which loaths all wholeſom Food, and longs after ſuch Traſh as may nouriſh the Diſeaſe.</q>
+            <p>This is the Source and Original of all Miſery. The Conſequence hereof is, that we are now expoſed to an infinite Number of Temptations from the World, the Devil, and our own corrupt Nature; that we are ready and inclined to hearken to them, and ſin againſt our Maker; and thereby are in continual danger of being betrayed to that miſerable State before deſcribed: And this, I hope, may be ſufficient at preſent to aſſure you, that your Souls are in Danger. And yet that you may not neglect them as paſt hopes, but may be en<g ref="char:EOLhyphen"/>couraged to ſet your ſelves in good earneſt totake care of them. Conſider,</p>
+            <p>
+               <hi>Fourthly, What an excellent proviſion it hath pleaſed God, in his wonderful Mercy, to make in order to re<g ref="char:EOLhyphen"/>ſcue and deliver them from theſe dangers; and what is required of us in compliance with this great Mercy.</hi> This God hath done by giving us his Son, and in him ma<g ref="char:EOLhyphen"/>king a New Covenant with us, after we had broken the firſt.</p>
+            <q>
+               <pb n="8" facs="tcp:172322:6"/>
+               <p>
+                  <hi>He has given us his Son,</hi> as the great <hi>Captain of our Salvation,</hi> to redeem and Reſcue us from the Power and Dominion of the Devil or Satan, that great Rebel againſt God; from whom the Devil ha<g ref="char:EOLhyphen"/>ving cauſed us to Revolt, he carries us captive at his Will, cauſing us to fight againſt our Maker, as many as he can detain in his Servitude: But God, I ſay, has <hi>given us his Son</hi> to Reſcue and Recover us out of ſuch a fearful State of Sin, Rebellion, and Miſery.</p>
+               <p>And this he has done by making in him a New Covenant with us, after we had broken the Firſt, that is, by propoſing the moſt gracious Terms of Reconciliation, through him our great Mediator and Redeemer; And, by making Satisfaction, as for our Breach of the firſt Covenant, ſo for the Sins of as many of us as truly repent of our Tranſgreſ<g ref="char:EOLhyphen"/>ſions under the Second.</p>
+               <p>This ſecond Covenant was made with <hi>Adam,</hi> and us in him, preſently after his Fall, and is briefly contained in theſe Words, <hi>Gen.</hi> 3. 15. where God declares, that, <hi>The Seed of the Woman ſhould break the Serpents head;</hi> and this Second Covenant is made up, as the firſt was, of ſome Mercies to be offered by God, and ſome Duties to be performed by us.</p>
+               <p>God herein promiſed to ſend on Earth, his only Son, who is God equal with himſelf, to become Man like unto us in all things; Sin only excepted, and he to do for us theſe ſeveral things.</p>
+               <p>1. To make known to us the whole will of his Father in the performance whereof we ſhall be ſure to be accepted and rewarded by him. And this was one part of his buſineſs, which he performed in thoſe many Sermons, Doctrines and Precepts we find ſet down in the Goſpel. And herein he is our Prophet, for it was the work of a Prophet of old, not only
+<pb n="9" facs="tcp:172322:6"/>
+to foretel, but to teach. Our duty in this particu<g ref="char:EOLhyphen"/>lar is to hearken diligently to him, to be moſt ready and deſirous to learn that Will of God which he came from Heaven to reveal to us.</p>
+               <p>2. The ſecond thing he was to do for us, was to ſa<g ref="char:EOLhyphen"/>tisfie God for our ſins, not only that one of <hi>Adam,</hi> but all the Sins of Mankind that truly repent and a<g ref="char:EOLhyphen"/>mend, and by this means to obtain for us forgive<g ref="char:EOLhyphen"/>neſs of Sins, and the favour of God; and to redeem us from Hell and Eternal Damnation, which was the puniſhment due to our Sin. All this he did for us by his Death: He offered up himſelf a ſa<g ref="char:EOLhyphen"/>crifice for the Sins of all thoſe who heartily bewail and forſake them. And in this he is our Prieſt, it being anciently the Prieſt's Office to offer ſacrifice for the ſins of the People. Our duty in this parti<g ref="char:EOLhyphen"/>cular is firſt, truly and heartily to repent of our ſins, and to forſake them, without which they will ne<g ref="char:EOLhyphen"/>ver be forgiven us, though that is the thing for which Chriſt died. Secondly, ſtedfaſtly to believe, that if we give our ſelves up to Chriſt, we ſhall have the benefits of that Sacrifice of his; that all our ſins, how many and great ſoever, ſhall be forgiven us, and we ſhall be ſaved from thoſe Eternal Pu<g ref="char:EOLhyphen"/>niſhments which were due unto us for them. Ano<g ref="char:EOLhyphen"/>ther part of the Prieſt's Office was Bleſſing and Praying for the People; and this alſo Chriſt per<g ref="char:EOLhyphen"/>forms for us. It was his ſpecial Commiſſion from his Father to Bleſs us, as St. <hi>Peter</hi> tells us, <hi>Acts</hi> 3. 26. <hi>God ſent his Son Jeſus to bleſs you;</hi> and the fol<g ref="char:EOLhyphen"/>lowing Words ſhew wherein that Bleſſing conſiſts, <hi>in turning away every one of you from your Iniquity:</hi> Thoſe means which he hath uſed for the turning of us from our ſins, are to be reckoned of all other, the greateſt Bleſſings; and for the other part, that of Praying, that he not only performed on Earth, but
+<pb n="10" facs="tcp:172322:7"/>
+continues ſtill to do it in Heaven, <hi>He ſits on the right hand of God, and makes requeſt for us,</hi> Rom. 8. 34. Our duty herein is, not to reſiſt this unſpeaka<g ref="char:EOLhyphen"/>ble Bleſſing of his, but to be willing to be thus bleſt in being turned from our ſins; and not to make void and fruitleſs all his Prayers and Interceſſions for us, which will never prevail for us, whilſt we continue in our Sins.</p>
+               <p>3. The third thing that Chriſt was to do for us, was to enable us, or to give us ſtrength to do what God requires of us. This he doth, Firſt, By tak<g ref="char:EOLhyphen"/>ing off from the hardneſs of the Law given to <hi>A<g ref="char:EOLhyphen"/>dam,</hi> which bound us never to commit the leaſt ſin, upon the pain of Damration. So that now God requires of us only an honeſt and hearty endeavour to do what we are able, and where we fail of that through weakneſs, heaccepts of our ſincere Repen<g ref="char:EOLhyphen"/>tance. Secondly, By ſending his Holy Spirit into our Hearts to govern and rule us, to give us ſtrength to overcome Temptations to Sin, and to do all that he now under the Goſpel requires of us. And in this Chriſt is our King, it being the Office of a King to Govern and Rule, and to ſubdue our Enemies. Our duty in this particular is to give up our ſelves, to be obedient Subjects of his; to be governed and ruled by him, to obey all his Laws, not to take part with any Rebel, that is, not to cheriſh any one ſin, but diligently to pray for his Grace to enable us to ſubdue them all, and then carefully to make uſe of it to that purpoſe.</p>
+               <p>Laſtly, He has purchaſed for all that faithfully obey him, an eternal glorious inheritance, the King<g ref="char:EOLhyphen"/>dom of Heaven, whether he is gone before to take poſſeſſion for us. Our duty herein is to be exceed<g ref="char:EOLhyphen"/>ing careful that we forfeit not our parts in it: which we ſhall certainly do, if we continue impenitent in
+<pb n="11" facs="tcp:172322:7"/>
+any ſin. Secondly, Not to faſten our Affections on this World, but to raiſe them up to Heaven and Heavenly Things, according to the Precept of the Apoſtle, <hi>Col.</hi> 3. 2. <hi>Set your Affections on things above, and not on things on the Earth,</hi> continually longing to come to the poſſeſſion of that bleſſed Inheritance of ours, in compariſon whereof all things here be<g ref="char:EOLhyphen"/>low ſhould ſeem vile and mean to us.</p>
+               <p>This is the ſum of that ſecond Covenant we are now under, wherein you ſee what Chriſt hath done, how he executes thoſe three great Offices of King, Prieſt and Prophet; as alſo what is required of us, without our faithful performance of which, all that he hath done ſhall never ſtand us in any ſtead; for he will never be a Prieſt to ſave any, who take him not alſo for their Prophet to teach, and their King to rule them; nay if we neglect our part of this Co<g ref="char:EOLhyphen"/>venant, our condition will be yet worſe than if it had never been made; for we ſhall be to anſwer not for the breach of Law only, as in the firſt Co<g ref="char:EOLhyphen"/>venant, but for the abuſe of Mercy, which is of all ſins the moſt provoking. On the other ſide, if we faithfully perform it, that is, ſet our ſelves hearti<g ref="char:EOLhyphen"/>ly to the obeying of every Precept of Chriſt; not going on wilfully in any one ſin, but bewailing and forſaking what ever we have formerly been guilty of, it is then moſt certain that all the forementio<g ref="char:EOLhyphen"/>ned Benefits of Chriſt belong to us.</p>
+               <p>And now you ſee how little reaſon you have to caſt off the care of your Souls, upon a conceit that they are paſt cure; for that it is plain they are not; nay certainly they are in that very condition, which of all others makes them fitteſt for our care. If they had not been thus Redeemed by Chriſt, they had been then ſo hopeleſs, that care would have been in vain: On the other ſide, if his Redemption
+<pb n="12" facs="tcp:172322:8"/>
+had been ſuch that all Men ſhould be ſaved by it, though they live as they liſt, we ſhould have thought it needleſs to take care for them, becauſe they were ſafe without it. But it hath pleaſed God ſo to order it, that our care muſt be the means by which they muſt receive the good, even of all that Chriſt hath done for them.</p>
+            </q>
+            <p>And now if you will but lay theſe things to Heart, your Reaſon and your Intereſt will both direct you how to behave your ſelves. Methinks I hear ſome of you, as Men deeply affected with the ſenſe of theſe things, with a ſerious and compaſſionate regard to their Souls, crying out with St. <hi>Peter's</hi> hearers, <hi>Men and Brethren, what muſt we do to be ſaved?</hi> I would to God, that e<g ref="char:EOLhyphen"/>very Man would make this application to himſelf; and if they do not, it is too certain a ſign, that either they believethat they have no immortal Souls, or that it is impoſſible they ſhould for ever miſcarry.</p>
+            <p>Give me leave a little to reaſon the caſe with you, my dear Neighbours, to perſwade you to take care of your Souls. Are they made after the Image and Si<g ref="char:EOLhyphen"/>militude of God? Why then will ye ſuffer them to be transformed to the Image of Satan? Has God provi<g ref="char:EOLhyphen"/>ded a Heaven of Happineſs for them? Why will ye be ſo cruel and unjuſt to them as to expoſe them to the intolerable Flames of Hell? Since God the Father hath rated them at the higheſt value, and expreſſed his chief concern for them: Why will ye neglect and undervalue them as things of no price? ſince God the Son thought not his own Blood too great a price for them, Why do ye chuſe to ſell them for the tri<g ref="char:EOLhyphen"/>fling Vanities of this World? ſince the Holy Ghoſt is continually at work to preſerve them. Whence comes it to paſs that ye hardly think them worthy the ſlen<g ref="char:EOLhyphen"/>dereſt part of your care? ſince the bleſſed Angels are imployed in miniſtring unto them: Why do ye de<g ref="char:EOLhyphen"/>feat
+<pb n="13" facs="tcp:172322:8"/>
+all their endeavours for your good? ſince they re<g ref="char:EOLhyphen"/>joyce at the Converſion of Souls? Why will ye refuſe to afford them this matter of rejoicing, where the greateſt advantage will be your own? Wherefore do you ſeek to gratifie our common Adverſary the Devil ſo far, as to permit him to diſappoint the gracious purpoſes of God towards us? Oh that Men can be ſo ſenſeleſs as to ſee their Souls periſhing before their Eyes, without Remorſe or Compaſſion! that they can paſs day after day without making any offer or attempt to recover them.</p>
+            <p>Conſider you have not only the ſin of your firſt Pa<g ref="char:EOLhyphen"/>rents to be forgiven you, but alſo innumerable Actual ſins of your own; and thoſe perhaps committed a<g ref="char:EOLhyphen"/>gainſt the light of your own Conſciences, againſt the expreſs command of God, againſt the dictates of the Holy Spirit, againſt frequent Warnings and Admoni<g ref="char:EOLhyphen"/>tions from others, and contrary to many repeated Vows and Reſolutions. Theſe are aggravations ſuffi<g ref="char:EOLhyphen"/>ſtill there is hope, there is a remedy even for ſuch Sinners, if they repent and return from their Sins, and become ſincerely obedient to the Laws of God, and accept the Lord <hi>Jeſus</hi> as their King, their Prieſt, and their Prophet, God will for his ſake accept them. <hi>Re<g ref="char:EOLhyphen"/>member that ye were not redeemed with corruptible things as Silver and Gold, but with the precious Blood of Chriſt, as of a Lamb without Blemiſh, and without Spot, 1 Pet. 1. 18, 19.</hi> This was the ranſom of Souls which God requi<g ref="char:EOLhyphen"/>red; and if you reject this he will accept no other, and you do reject it (and God ſo interprets it) if you do not accept him upon his own terms; if you do not give up your ſelves unto Chriſt, to be guided and go<g ref="char:EOLhyphen"/>verned, as well as ſaved by him; otherwiſe you re<g ref="char:EOLhyphen"/>nounce all your part and intereſt in his Blood, and do as it were, declare you will not be beholding to
+<pb n="14" facs="tcp:172322:9"/>
+him: and then ſurely you cannot complain that God is unmerciful, it he take the Forfeiture, and condemn thoſe who would not be ſaved by him. The promi<g ref="char:EOLhyphen"/>ſes and Threatnings of the Goſpel, and all other the Methods which God hath uſed to reform and reclaim Sinners, are all Inſtances of his great goodneſs to us, of his zeal and concern for our Happineſs; and if we ſtill continue to reject and ſet them atnought, how juſt, as well as ſevere, will be our Condemnation. Has he taken all imaginable care to oblige you to be king to yourſelves, and faithful to your trueſt intereſt, and will ye ſtill forſake your own Mercies? If you thus wilfully ſeek your own ruin, how righteous will it be in God to plague you to the utmoſt extremity.</p>
+            <p>Let me therefore beſeech you, even by all that is Sacred and Serious, by every thing that is Dear and precious to you, by your beſt hopes, and the moſt im<g ref="char:EOLhyphen"/>portant concern of your everlaſting Being, to take pity upon your poor Souls, to conſider the dangers whereto they are expoſed, to conſult and comply with the means of their Preſervation.</p>
+            <p>Learn I pray you to affect your Hearts with a ſerious ſence of your danger, to repent earneſtly of your paſt ſins, ſincerely reſolve to be more Holy, Watchful and Circumſpect for the time to come; pray earneſtly for the Graces of God's Holy Spirit; cheriſh in your Souls a lively Faith in the Mercies of God thro' Chriſt; and in all reſpects, as God ſhall enable you, and you ſhall be here<g ref="char:EOLhyphen"/>after from time to time inſtructed, let your Prayers and your Endeavours be that you may be wiſe unto Salvati<g ref="char:EOLhyphen"/>on. And that you may abound in all ſpiritual Wiſdom and Underſtanding, and may be accepted as faithful Ser<g ref="char:EOLhyphen"/>vants of God and our Lord Jeſus Chriſt in the great day of Accounts, as it is the earneſt Prayer, ſo it ſhall be the conſtant endeavour of</p>
+            <closer>Your affectionate Servant in Chriſt Jeſus.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
